@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "use-task-as-timer", "use-task-as-timer\use-task-as-timer.csproj", "{98F30690-2CB3-4E70-9872-A7601C9C769D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "use-task-as-timer-ui-test", "use-task-as-timer-ui-test\use-task-as-timer-ui-test.csproj", "{8ABC87AB-AFAA-4875-876B-0E03D5E29203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98F30690-2CB3-4E70-9872-A7601C9C769D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F30690-2CB3-4E70-9872-A7601C9C769D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F30690-2CB3-4E70-9872-A7601C9C769D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F30690-2CB3-4E70-9872-A7601C9C769D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ABC87AB-AFAA-4875-876B-0E03D5E29203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ABC87AB-AFAA-4875-876B-0E03D5E29203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ABC87AB-AFAA-4875-876B-0E03D5E29203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ABC87AB-AFAA-4875-876B-0E03D5E29203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42F8D92B-5AC6-4077-92A8-202B9FCC9A71}
+	EndGlobalSection
+EndGlobal
